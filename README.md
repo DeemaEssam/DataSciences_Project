@@ -1,5 +1,8 @@
 # Smarter Sustainable Tourism: Building a High-Quality Dataset for the Future of Tourism Analytics in Saudi Arabia
 
+<img width="700" height="674" alt="tourism" src="https://github.com/user-attachments/assets/ea5935e5-01da-4d11-8367-a72b468d5c2a" />
+
+
 This repository contains a comprehensive data science project aimed at analyzing and improving tourism experiences in Saudi Arabia. The project integrates datasets, performs detailed sentiment and trend analyses, and provides a recommendation system for tourist destinations. It aligns with Saudi Arabia's Vision 2030 goals by leveraging data to promote tourism and enhance visitor satisfaction.
 
 ## Key Features
